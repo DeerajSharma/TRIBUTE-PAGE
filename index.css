@@ -1,0 +1,46 @@
+body { 
+    margin: 0px 6%;
+}
+#title {
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 7vh;
+}
+#img{
+    text-align: center;
+}
+ul li{
+    padding: 10px;
+    color: rgb(0,47,45);
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 400px;
+}
+#caption {
+    font-size: 17px;
+    font-family: Gill Sans;
+    color: black;
+}
+#main {
+    background: rgb(255,153,51);
+background: linear-gradient(125deg, rgba(255,153,51,1) 30%, rgba(255,255,255,0.24605297441242124) 50%, rgba(19,136,8,1) 72%);
+    box-shadow: 0px 0px 4px #5a5e5a;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}
+h1.title-APJ {
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+
+#tribute-link {
+    text-decoration: none;
+    color: black;
+}
